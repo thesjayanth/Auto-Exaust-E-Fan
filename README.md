@@ -1,5 +1,8 @@
-# Auto Exhaust E-Fan
+> ⚠️ Note: The hardware prototype was built and tested during my undergraduate project.
+> The physical components are not currently available, but the documentation, circuit, and Arduino code
+> reflect the working model implemented during the prototype phase.
 
+# Auto Exhaust E-Fan
 An **Arduino-based automatic exhaust fan** designed to reduce noise and power consumption.  
 The fan speed automatically adjusts based on room temperature using the LM35 sensor.
 
