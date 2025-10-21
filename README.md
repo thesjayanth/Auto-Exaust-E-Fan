@@ -1,6 +1,4 @@
-# Auto-Exaust-E-Fan
-An Arduino-based automatic exhaust fan that adjusts speed using a temperature sensor to reduce noise and save energy.
-# Auto Exhaust E-Fan 🚀
+# Auto Exhaust E-Fan
 
 An **Arduino-based automatic exhaust fan** designed to reduce noise and power consumption.  
 The fan speed automatically adjusts based on room temperature using the LM35 sensor.
@@ -87,6 +85,6 @@ This project is open-source under the [MIT License](LICENSE).
 ---
 
 ## 👤 Author
-**[jayanth]**  
+**[Jayanth]**  
 Electronics and Communication Engineering  
 Institute of Aeronautical Engineering, Hyderabad
