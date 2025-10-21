@@ -39,12 +39,12 @@ To design an **automated exhaust fan system** using Arduino that:
 ---
 
 ## 🧩 Circuit Diagram
-You can find the circuit diagram in the `Circuit_Diagram` folder.
+You can find the circuit diagram in the `documents` folder.
 
 ---
 
 ## 💻 Arduino Code
-Code is located in the `Code/auto_exhaust_fan.ino` file.
+Code is located in the `Code/main.c` file.
 
 ---
 
