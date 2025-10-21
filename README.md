@@ -37,14 +37,17 @@ To design an **automated exhaust fan system** using Arduino that:
 | Jumper Wires, Breadboard | Connections and prototyping |
 
 ---
+## 📄 Project Report
+For complete documentation, system explanation, and budget details, refer to the full report:  
+➡ `documents/Auto_Exhaust_E-Fan.pdf `
 
 ## 🧩 Circuit Diagram
-You can find the circuit diagram in the `documents` folder.
+You can find the circuit diagram in the `documents/circuit diagram.png` folder.
 
 ---
 
 ## 💻 Arduino Code
-Code is located in the `Code/main.c` file.
+Code is located in the `Code/auto_exhaust_fan.ino` file.
 
 ---
 
